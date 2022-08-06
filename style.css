@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(69, 145, 211);
+    color: blue;
+    text-align: center;
+    height: 100px;
+}
+.banner{
+    background-color: aqua;
+    color: blueviolet;
+    text-align: center;
+    height: 400px;
+    font-size: 40px;
+
+}
+.feature{
+overflow: hidden;
+}
+.feature_one{
+    background-color: chartreuse;
+    height: 300px;
+    width: 50%;
+    float: left;
+
+}
+.feature_two{
+    background-color: chocolate;
+    height: 300px;
+    width: 50%;
+    float: right;
+
+}
+.service{
+ overflow: hidden;
+}
+.service_one{
+background-color: darkkhaki;
+height: 200px;
+width: 33.3%;
+float: left;
+}
+.service_two{
+    background-color: rgb(62, 73, 231);
+    height: 200px;
+    width: 33.3%;
+    float: left;
+}
+.service_three{
+    background-color: rgb(219, 37, 180);
+    height: 200px;
+    width: 33.3%;
+    float: left;
+}
+.ads_section{
+overflow: hidden;
+}
+.ads_section_one{
+    background-color: aqua;
+    height: 150px;
+    width: 70%;
+    float: left;
+
+}
+.ads_section_two{
+    background-color: rgb(44, 72, 228);
+    height: 150px;
+    width: 30%;
+    float: left;
+
+
+}
+.fotter{
+    background-color: rgb(223, 17, 188);
+    height: 100px;
+    width: 1000%;
+    overflow: hidden;
+   
+}
